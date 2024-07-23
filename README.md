@@ -55,7 +55,7 @@ Here are some sampled captions for the EdLight trained model which was trained f
 Next, the fine_tuned model was trained (with weights initialized to that of `30k_img_cap_model_013_heads_2_4.keras`) for 34 epochs before EarlyStopping interrupted with the following results (`img_cap_edlight_034_ft.keras`):
 
 ![img_cap_edlight_ft_034_1](https://github.com/user-attachments/assets/7a645a8b-cd9b-4f85-b4a1-6a0605dda006)
-![img_cap_edlight_ft_034_1](https://github.com/user-attachments/assets/1fcc9c06-979a-4999-86d0-3fa090f4c6d5)
+![img_cap_edlight_ft_034_2](https://github.com/user-attachments/assets/9bcdc47e-1987-44cb-afa6-bffb55bb1acd)
 
 These captions were somewhat cherry-picked to present the better generations. Both models seem to perform relatively well for their limited training however the fine-tuned model predicted captions that seem closer to the training data.
 
