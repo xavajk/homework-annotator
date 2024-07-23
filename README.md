@@ -46,15 +46,14 @@ First, the ImageCaptioningModel was trained solely on the EdLight dataset to est
 
 Here are some sampled captions for the EdLight trained model which was trained for 40 epochs before EarlyStopping interrupted (`img_cap_edlight_040.keras`):
 
-![img_cap_edlight_040_1.png](EdLight%20ML%20Intern%20Take%20Home%20Task%20cfee536f191e46e097b8d8ef4a9ee0da/img_cap_edlight_040_1.png)
+![img_cap_edlight_040_2](https://github.com/user-attachments/assets/88325105-f811-4050-8ab1-60afdf88267e)
+![img_cap_edlight_040_1](https://github.com/user-attachments/assets/3a93b071-89cb-4960-8359-7e19fca3cebf)
 
-![Screenshot 2023-10-26 at 1.47.32 AM.png](EdLight%20ML%20Intern%20Take%20Home%20Task%20cfee536f191e46e097b8d8ef4a9ee0da/Screenshot_2023-10-26_at_1.47.32_AM.png)
 
 Next, the fine_tuned model was trained (with weights initialized to that of `30k_img_cap_model_013_heads_2_4.keras`) for 34 epochs before EarlyStopping interrupted with the following results (`img_cap_edlight_034_ft.keras`):
 
-![img_cap_edlight_ft_034_2.png](EdLight%20ML%20Intern%20Take%20Home%20Task%20cfee536f191e46e097b8d8ef4a9ee0da/img_cap_edlight_ft_034_2.png)
-
-![img_cap_edlight_ft_034_1.png](EdLight%20ML%20Intern%20Take%20Home%20Task%20cfee536f191e46e097b8d8ef4a9ee0da/img_cap_edlight_ft_034_1.png)
+![img_cap_edlight_ft_034_1](https://github.com/user-attachments/assets/7a645a8b-cd9b-4f85-b4a1-6a0605dda006)
+![img_cap_edlight_ft_034_1](https://github.com/user-attachments/assets/1fcc9c06-979a-4999-86d0-3fa090f4c6d5)
 
 These captions were somewhat cherry-picked to present the better generations. Both models seem to perform relatively well for their limited training however the fine-tuned model predicted captions that seem closer to the training data.
 
