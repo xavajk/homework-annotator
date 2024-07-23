@@ -1,3 +1,5 @@
+### **Note: this was my submission for the intern competition.**
+
 # EdLight ML Intern Take Home Task
 
 # Understanding the Problem
