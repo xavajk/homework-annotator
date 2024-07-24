@@ -1,4 +1,4 @@
-### **Note: this was my submission for the intern competition.**
+### **Note: adapted from my submission for the intern competition.**
 
 # EdLight ML Intern Take Home Task
 
