@@ -1,5 +1,8 @@
 ### **Note: adapted from my submission for the intern competition.**
 
+### Response to Question 2 from the application which didn't save when I submitted:
+When I was younger, my only exposure to AI was from sci-fi movies but it always caught my attention. I wondered what it would be like to have my own AI and was enthralled by its enigmatic nature. As I went through the CS canon of data structures, algorithms, OS, and the like, I must've forgotten where my interest truly began. Last October, as I was working to bolster my resume and looking for opportunities, I had the chance to participate in an intern project competition. The challenge was to develop an ML pipeline capable of annotating handwritten work—essentially, generating a caption for an image. It was through this project that I was able to find my passion for programming again. Amid the grind of stressing over passing classes and perfecting LeetCode solutions, I was reintroduced to AI. And while I could gush over all the technical details about this project in particular, I feel it's more important to emphasize why it's important to me. AI has the potential to change the world for the better and I feel so excited by all the unknowns and possibilities. If you want to check out the technical details or more info, see the repo and my other links! :)
+
 # EdLight ML Intern Take Home Task
 
 # Understanding the Problem
